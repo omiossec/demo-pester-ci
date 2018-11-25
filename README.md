@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/clpi7shipiujumih/branch/master?svg=true)](https://ci.appveyor.com/project/omiossec/demo-pester-ci/branch/master)
+
+
 # Demo AppVeyor PowerShell Pester
 
 
